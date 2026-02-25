@@ -1,0 +1,13 @@
+let date=new Date()
+console.log(date)
+console.log(date.getDate(),"======>today date")
+console.log(date.getMonth(),"===>this is month")
+console.log(date.getDate(),"===>day")
+console.log(date.getSeconds(),"this is seconds")
+console.log(date.getFullYear(),"this is a year")
+console.log(date.getHours(),"this is hrs")
+console.log(date.getMinutes(),"this is minute")
+console.log(date.getMilliseconds(),"this is milli seconds")
+console.log(date.getTime())
+console.log(date.toDateString(),"this is full date")
+
